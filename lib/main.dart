@@ -34,7 +34,7 @@ class MyHomePage extends StatelessWidget{
             child: new Card(
               color: Colors.blue.shade200,
               child: new Center(
-                child: new Text('tile $index'),
+                child: Image.asset('assets/beyonce_renaissance_feat.jpg'),
               )
             )
            );
